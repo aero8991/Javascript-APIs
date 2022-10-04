@@ -1,0 +1,13 @@
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+}
+  
+.banner {
+    color: #eab91a;
+    font-family: sans-serif;
+}
+
+#city-name{
+  text-transform: capitalize;
+}
